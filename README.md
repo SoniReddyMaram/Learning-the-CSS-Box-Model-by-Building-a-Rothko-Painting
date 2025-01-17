@@ -3,7 +3,7 @@
 ## Project Structure
 
 ### Files
-- **`Rothko painting.html`**  
+- **`Rothko Painting.html`**  
   The main HTML file containing the structure of the web page.
 
 - **`Rothko stylesheet.css`**  
@@ -19,8 +19,8 @@
 - A web browser (no additional software or tools required).
 
 ### Steps to View
-1. Download both `Rothko painting.html` and `Rothko stylesheet.css` to the same directory.
-2. Open `Rothko painting.html` in your web browser.
+1. Download both `Rothko Painting.html` and `Rothko stylesheet.css` to the same directory.
+2. Open `Rothko Painting.html` in your web browser.
 
 ### Customization
 
