@@ -36,7 +36,7 @@
 This project is a homage to **Mark Rothko**, whose abstract paintings are renowned for their emotive use of color and simplicity. It is intended as a creative exercise in using HTML and CSS to emulate a modern art style.
 
 ## License
-This project is open-source and available for modification and distribution under the **freecodecamp**.  
+This project is open-source and available for modification and distribution under the **freecodecamp/SoniReddyMaram**.  
 
 Feel free to experiment with the code and create your own Rothko-inspired digital artwork!
 
